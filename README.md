@@ -22,25 +22,25 @@ Businesses often struggle to segment their customers effectively. This notebook 
 
 📌 Key Steps in the Notebook
 
-1- Data Loading & Cleaning
+1- Data Loading & Cleaning </br>
 filters out anomalies & and nan customer ID Values.
 
-2- Apply EDA
+2- Apply EDA </br>
 perform exploratory data analysis on the filtered data.
 
-3- RFM Feature Engineering
+3- RFM Feature Engineering </br>
 Constructs key behavioral metrics from transactional data.
 
-4- Feature Scaling & Optional PCA (no PCA applied in the notebook)
+4- Feature Scaling & Optional PCA (no PCA applied in the notebook) </br>
 Ensures fair clustering and optional dimensionality reduction.
 
-5- Optimal Cluster Selection
+5- Optimal Cluster Selection </br>
 Uses Elbow Method to identify optimal number of clusters
 
-6- K-Means Clustering
+6- K-Means Clustering </br>
 Applies algorithm and assigns customers to clusters.
 
-7- Visualization & Interpretation
+7- Visualization & Interpretation </br>
 Uses 2D plots and descriptive stats to understand each cluster.
 
 📈 Sample Output
